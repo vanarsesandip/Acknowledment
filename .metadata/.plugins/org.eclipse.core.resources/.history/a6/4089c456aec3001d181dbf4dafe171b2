@@ -1,0 +1,12 @@
+package com.acknowledgment.Entity;
+
+public class OrderHeader {
+
+	private int ordID;
+	private String userName;
+	private String userMobileno;
+	private String purchaseOrdNo;
+	private String purchaseOrdDate;
+	private String orderItems;
+	
+}
